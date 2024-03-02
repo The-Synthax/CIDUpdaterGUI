@@ -1,6 +1,6 @@
 # CID-Updater GUI
 
-This repository contains a Python script designed to provide a user-friendly interface for interacting with an MCU (Microcontroller Unit) and performing various operations on it. The script uses Telnet communication to connect to the MCU and execute commands.
+This repository contains a Python script designed to provide a user-friendly interface for interacting with an MCU (Media Control Unit) and performing various operations on it. The script uses Telnet communication to connect to the MCU and execute commands.
 
 ## Features
 
